@@ -1,2 +1,1 @@
-1. In the left sidebar, click **Security**.
-  ![Security tab in the enterprise account settings sidebar](/assets/images/help/business-accounts/enterprise-account-settings-security-tab.png)
+1. Under **{% octicon "gear" aria-hidden="true" aria-label="gear" %} Settings**, click **Authentication security**.
